@@ -1,0 +1,169 @@
+关于React Native Styles 的部分样式标签：
+
+    alignItems:设置在所属的view以及child的对齐方式
+    
+    alignSelf：设置所在view的对齐方式
+    
+    backfaceVisibility：
+    
+    backgroundColor：设置背景颜色
+    
+    borderBottomColor：设置下边框颜色
+    
+    borderBottomLeftRadius：设置左下边框圆角
+    
+    borderBottomRightRadius：设置右下边框圆角
+    
+    borderBottomWidth：设置下边框宽
+    
+    borderColor：设置边框颜色
+    
+    borderLeftColor：设置左边框颜色
+    
+    borderLeftWidth：设置左边框宽度
+    
+    borderRadius：设置边框圆角
+    
+    borderRightColor：设置右边框颜色
+    
+    borderRigthWidth：设置右边框宽度
+    
+    borderStyle：设置边框样式
+    
+    borderTopColor：设置上边框颜色
+    
+    borderTopLeftRadius：设置左上边框圆角
+    
+    borderTopRightRadius：设置右上边框圆角
+    
+    borderTopWidth：设置上边框宽度
+    
+    borderWidth：设置边框宽度
+    
+    bottom：位置（底部）
+    
+    color：颜色
+    
+    decomposedMatrix：
+    
+    elevation
+    
+    flex：
+    
+    flexDirection：
+    
+    flexWrap：
+    
+    flexFamily：
+    
+    fontFamily：设置字体
+    
+    fontSize：设置字体大小
+    
+    fontStyle：设置字体样式
+    
+    fontWeight：
+    
+    height：高
+    
+    justifyContent：
+    
+    left：位置（左）
+    
+    letterSpacing：
+    
+    lineHeight：设置行高
+    
+    margin：设置外边距
+    
+    marginBottom：设置下外边距
+    
+    marginTop：设置上外边距
+    
+    marginLeft：设置左外边距
+    
+    marginRight：设置右外边距
+    
+    marginHorizontal：
+    
+    marginVertical：
+    
+    maxHeight：设置最大高度
+    
+    maxWidth：设置最大宽度
+    
+    minHeight：设置最小高度
+    
+    minWidth：设置最小宽度
+    
+    opacity：
+    
+    overflow：设置当内容溢出元素框时发生的事情
+    
+    overlayColor：
+    
+    padding：设置内边距
+    
+    paddingTop：设置上内边框
+    
+    paddingBottom：设置下内边框
+    
+    paddingLeft：设置左内边框
+    
+    paddingRight：设置右内边框
+    
+    paddingHorizontal：
+    
+    paddingVertical：
+    
+    position：位置（相对/绝对）
+    
+    resizeMode：
+    
+    right：位置（右）
+    
+    rotation：旋转
+    
+    scaleX：向X轴放大
+    
+    scaleY：向Y轴放大
+    
+    shadowColor：设置阴影颜色
+    
+    shadowOffset：设置阴影偏移量
+    
+    shadowOpacity：
+    
+    shadowRadius：设置阴影圆角
+    
+    textAlign：设置文字对齐方式
+    
+    textDecorationColor：
+    
+    textDecorationLine：
+    
+    textDecorationStyle：
+    
+    textShadowColor：设置文字阴影颜色
+    
+    textShadowOffset：设置文字阴影偏移量
+    
+    textShadowRadius：设置文字阴影圆角
+    
+    tintColor：
+    
+    top：位置（上）
+    
+    transform：
+    
+    transformMatrix
+    
+    transformY：向Y轴平移
+    
+    transformX：向X轴评议
+    
+    width：设置宽度
+    
+    writingDirecttion：
+    
+    zIndex：设置元素堆叠顺序
